@@ -7,22 +7,22 @@ var carDealsCachePagesName = 'carDealsCachePagesV1';
 var carDealsCacheImagesName = 'carDealsCacheImagesV1';
 
 var carDealsCacheFiles = [
-  './js/app.js', 
-  './js/carService.js',
-  './js/clientStorage.js',
-  './js/swRegister.js',
-  '/js/template.js',
-  './',
-  './resources/es6-promise/es6-promise.js',
-  './resources/fetch/fetch.js',
-  './resources/localforage/localforage.min.js',
-  './resources/localforage/localforage-getitems.js',
-  './resources/localforage/localforage-setitems.js',
-  './resources/material-design-lite/material.min.js',
-  '.c/resources/material-design-lite/material.min.js.map',
-  './resources/material-design-lite/material.red-indigo.min.css',
-  './resources/systemjs/system.js',
-  './resources/systemjs/system-polyfills.js'
+  '/car-deals-pwa-poc/js/app.js', 
+  '/car-deals-pwa-poc/js/carService.js',
+  '/car-deals-pwa-poc/js/clientStorage.js',
+  '/car-deals-pwa-poc/js/swRegister.js',
+  '/car-deals-pwa-poc/js/template.js',
+  '/car-deals-pwa-poc/',
+  '/car-deals-pwa-poc/resources/es6-promise/es6-promise.js',
+  '/car-deals-pwa-poc/resources/fetch/fetch.js',
+  '/car-deals-pwa-poc/resources/localforage/localforage.min.js',
+  '/car-deals-pwa-poc/resources/localforage/localforage-getitems.js',
+  '/car-deals-pwa-poc/resources/localforage/localforage-setitems.js',
+  '/car-deals-pwa-poc/resources/material-design-lite/material.min.js',
+  '/car-deals-pwa-poc/resources/material-design-lite/material.min.js.map',
+  '/car-deals-pwa-poc/resources/material-design-lite/material.red-indigo.min.css',
+  '/car-deals-pwa-poc/resources/systemjs/system.js',
+  '/car-deals-pwa-poc/resources/systemjs/system-polyfills.js'
 ];
 
 var latestPath = '/pluralsight/courses/progressive-web-apps/service/latest-deals.php';
